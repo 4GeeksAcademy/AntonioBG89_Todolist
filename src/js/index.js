@@ -10,5 +10,5 @@ import Home from "./component/Home.js";
 
 //render your react application
 ReactDOM.createRoot(document.getElementById('app')).render(<Home/>);
-ReactDOM.render(element, document.body)
+
 
